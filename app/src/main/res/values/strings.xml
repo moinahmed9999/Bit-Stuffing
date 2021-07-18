@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BitStuffing</string>
+    <string name="cn_lab">CN Lab</string>
+    <string name="bit_stuffing"><u>Bit Stuffing</u></string>
+    <string name="message">Message</string>
+    <string name="encode_message">Encode Message</string>
+    <string name="decode_message">Decode Message</string>
+    <string name="reset">Reset</string>
+    <string name="name_roll">2K18/CO/209\tMoin Ahmed</string>
+    <string name="hii">Hii</string>
+</resources>
